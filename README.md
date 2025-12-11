@@ -2,7 +2,7 @@
 
 This repository contains three backend automation projects demonstrating **OOP Principles**, **SQL Database Management**, and **Software Testing** methodologies.
 
-## 📂 Project 1: Smart Parking System (SQL + OOP)
+## 📂 Project 1: Parking Allocation System With VIP System(SQL + OOP)
 **Role:** Developer & Tester
 - **Logic:** Automates vehicle entry/exit using Class Inheritance.
 - **Database:** SQLite database tracks timestamps and VIP status.
