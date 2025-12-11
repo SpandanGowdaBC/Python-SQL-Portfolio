@@ -1,4 +1,4 @@
-# 🚀 Python + SQL "Dual-Role" Portfolio
+# 🚀 Python + SQL Portfolio
 
 This repository features three full-stack Python projects backed by **SQLite databases**. 
 Each project includes the **Source Code** (for Developer review) and detailed **Test Cases** (for QA review).
