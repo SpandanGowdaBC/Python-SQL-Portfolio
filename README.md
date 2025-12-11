@@ -34,7 +34,7 @@ Each project includes the **Source Code** (for Developer review) and detailed **
 3. View the Test Cases: Open `QA_Test_Cases.xlsx`
 
 ### 👨‍💻 Author
-**[Your Name]** *Aspiring Python Developer & QA Tester*
+**[Spandan Gowda B C]** *Aspiring Python Developer & QA Tester*
 ---
 ### 🛠️ Tech Stack
 - **Language:** Python 3.x
